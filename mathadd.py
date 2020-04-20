@@ -1,4 +1,5 @@
 a = 3 
-b = 5
+b = 7
 c = a + b
-print(c)
+d = b - c
+print(d)
